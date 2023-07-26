@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ADITYA_PRADHAN
-- 👀 I’m interested in programmig
+- ❤️ on going in data science and machine learning
+- 👀 I’m interested in programmig 
 - 🌱 I’m currently learning ...
 
 
